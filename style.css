@@ -1,0 +1,26 @@
+button {
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+}
+
+.line{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+#result{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    
+}
+
+.main-content{
+    background-color: rgb(236, 203, 219);
+}
